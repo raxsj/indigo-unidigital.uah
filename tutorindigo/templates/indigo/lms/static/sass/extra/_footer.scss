@@ -1,9 +1,9 @@
 // Include custom Footer
 .wrapper-footer {
-    background-color: $primary;
+    background-color: #fff;
     color: #f8f9fa;
     padding: 25px 0;
-    border-top: 1px solid $primary;
+    border-top: 1px solid #d3d3d3;
     @include media-breakpoint-up(md) {
         padding: 45px 0;
     }
