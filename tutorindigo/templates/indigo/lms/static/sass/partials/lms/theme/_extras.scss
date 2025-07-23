@@ -179,7 +179,10 @@ nav.wrapper-preview-menu {
       margin-top: $header-height;
     }
 }
-
+.pgn__action-row button.btn-outline-primary {
+    margin: 0 7px 0 0;
+    display: none;
+}
 ////////////////// Course about page
 .course-info header.course-profile {
   background: #fff;
